@@ -1,0 +1,13 @@
+<container>
+  <data id="variety">Toucan</data>
+  <data id="pic">SpinachToucan{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>Spinach.sgninc</include>
+  <data id="varietytip1">50 days.</data>
+  <data id="varietytip2">Plant in a sunny area.</data>
+  <data id="varietytip3">Grows 10{inch} tall.</data>
+  <data id="varietytip4">Upright, oval, thick, green leaves for baby leaf or bunches.</data>
+  <data id="varietytip5">Very productive and slow to bolt.</data>
+  <data id="varietytip6">Enjoy homegrown flavors in salads or in cooking.</data>
+  <data id="varietytip7"></data>
+</container>

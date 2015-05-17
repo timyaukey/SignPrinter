@@ -1,0 +1,11 @@
+<container>
+  <data id="variety">Palla Rosa</data>
+  <data id="pic">Radicchio{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>Radicchio.sgninc</include>
+  <data id="varietytip1">85 days</data>
+  <data id="varietytip2">Plant in sunny area.</data>
+  <data id="varietytip3">Grows 7{inch} tall.</data>
+  <data id="varietytip4">Has 7{inch} heads of dark, tangy leaves. Mix in with salads, steamed greens, or stir-fries.</data>
+  <data id="varietytip5">Plant 8-10{inch} apart.</data>
+</container>

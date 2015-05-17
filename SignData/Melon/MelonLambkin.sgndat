@@ -1,0 +1,5 @@
+<container>
+  <data id="variety">Lambkin</data>
+  <data id="pic">MelonLambkin{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+</container>

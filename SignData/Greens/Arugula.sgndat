@@ -1,0 +1,11 @@
+<container>
+  <data id="variety"></data>
+  <data id="pic">Arugula{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>Arugula.sgninc</include>
+  <data id="varietytip1">35-40 days.</data>
+  <data id="varietytip2">Plant in a sunny area.</data>
+  <data id="varietytip3">Grows 12-18 inches.</data>
+  <data id="varietytip4">Dark green leaves with spicy non-bitter taste. Great to add to salads.</data>
+  <data id="varietytip5">Plant 6-8{inch} apart.</data>
+</container>

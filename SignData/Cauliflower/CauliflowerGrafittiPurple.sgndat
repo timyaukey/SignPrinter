@@ -1,0 +1,13 @@
+<container>
+  <data id="variety">Grafitti Purple</data>
+  <data id="pic">CauliflowerGrafittiPurple{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>purple.sgninc</include>
+  <data id="title">Purple</data>
+  <data id="title2">Rain</data>
+  <data id="varietytip1">78-80 days.</data>
+  <data id="varietytip2">Plant in a sunny area.</data>
+  <data id="varietytip3">Attractive deep purple color changes very little when cooked. Smooth tight head.</data>
+  <data id="varietytip4">Tolerant of downy mildew.</data>
+  <data id="varietytip5">Plant 18-24 inches apart.</data>
+</container>

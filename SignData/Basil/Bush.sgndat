@@ -1,0 +1,8 @@
+<container>
+  <data id="variety">Bush</data>
+  <data id="pic">Bush{grower}.jpg</data>
+  <include>BasilFacts.sgninc</include>
+  <data id="varietytip1">Grows 12{inch} tall.</data>
+  <data id="varietytip2">Rounded bushy plants with small fragrant leaves. Great in salads.</data>
+  <data id="varietytip3">High yield.</data>
+</container>

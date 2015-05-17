@@ -1,0 +1,6 @@
+<container>
+  <data id="variety">Crimson Sweet</data>
+  <data id="pic">WatermelonCrimsonSweet{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>Watermelon.sgninc</include>
+</container>

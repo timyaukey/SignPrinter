@@ -1,0 +1,7 @@
+<container>
+  <data id="variety">Cinnamon</data>
+  <data id="pic">Cinnamon{grower}.jpg</data>
+  <include>BasilFacts.sgninc</include>
+  <data id="varietytip1">Grows 18-24{inch} tall.</data>
+  <data id="varietytip2">Sturdy cinnamon colored stems support dark green leaves that are cinnamon scented. Use fresh or dried in cooking and salads.</data>
+</container>

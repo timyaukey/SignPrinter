@@ -1,0 +1,5 @@
+<container>
+  <data id="variety">Honeydew Earli Dew</data>
+  <data id="pic">HoneydewEarliDew{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+</container>

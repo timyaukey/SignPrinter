@@ -1,0 +1,15 @@
+<template>
+  <include>Picture.inc</include>
+
+  <include>PricePos.inc</include>
+  <include>PriceFont.inc</include>
+  <macrodef name="price" value="3.49" />
+  <text center="true" value="${price}" />
+  <include>SizeFont.inc</include>
+  <text center="true" value="for 6 pack" />
+
+  <include>Titles.inc</include>
+  <include>Tips.inc</include>
+  <include>Footer.inc</include>
+  <include>TickMarks.inc</include>
+</template>

@@ -1,0 +1,9 @@
+<container>
+  <data id="variety">Snow Crown</data>
+  <data id="pic">CauliflowerSnowCrown{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <data id="varietytip1">55 days.</data>
+  <data id="varietytip2">Plant in a sunny area.</data>
+  <data id="varietytip3">Early, easy to grow variety with high quality, pure white 7-8{inch} heads. Mild and sweet flavor. Heads weigh 1-2 lbs at harvest.</data>
+  <data id="varietytip4">Plant 15-18 inches apart.</data>
+</container>

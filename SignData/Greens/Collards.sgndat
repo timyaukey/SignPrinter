@@ -1,0 +1,12 @@
+<container>
+  <data id="variety"></data>
+  <data id="pic">Collards{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>Collards.sgninc</include>
+  <data id="varietytip1">60-75 days.</data>
+  <data id="varietytip2">Plant in a sunny area.</data>
+  <data id="varietytip3">Grows 18-24{inch}.</data>
+  <data id="varietytip4">Large, smooth, dark blue green, cabbage like greens.</data>
+  <data id="varietytip5">Bolt resistant. Heat tolerant and cold hardy.</data>
+  <data id="varietytip6">Plant 15-18" apart</data>
+</container>

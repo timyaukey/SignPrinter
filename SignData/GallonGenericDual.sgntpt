@@ -1,0 +1,14 @@
+<template>
+  <include>Picture.inc</include>
+
+  <include>PricePos.inc</include>
+  <macrodef name="orgprice" value="5.99" />
+  <macrodef name="conprice" value="4.99" />
+  <include>DualPriceText.inc</include>
+  <text center="true" value="for gallon pot" />
+
+  <include>Titles.inc</include>
+  <include>Tips.inc</include>
+  <include>Footer.inc</include>
+  <include>TickMarks.inc</include>
+</template>

@@ -1,0 +1,14 @@
+<template>
+  <include>Picture.inc</include>
+
+  <include>PricePos.inc</include>
+  <include>PriceFont.inc</include>
+  <text center="true" value="$4.99" />
+  <include>SizeFont.inc</include>
+  <text center="true" value="for jumbo 6 pack" />
+
+  <include>Titles.inc</include>
+  <include>Tips.inc</include>
+  <include>Footer.inc</include>
+  <include>TickMarks.inc</include>
+</template>

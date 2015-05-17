@@ -1,0 +1,12 @@
+<container>
+  <data id="variety"></data>
+  <data id="pic">MesclunMix{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>MesclunMix.sgninc</include>
+  <data id="varietytip1">30 days</data>
+  <data id="varietytip2">Plant in sunny area.</data>
+  <data id="varietytip3">Grows 12-18" high.</data>
+  <data id="varietytip4">Tasty mix of greens that includes arugula, mustard, endive, chervil, radicchio, and kale.</data>
+  <data id="varietytip5">Harvest by cut and come again, or by picking individual.leaves.</data>
+  <data id="varietytip6">Plant each seedling 6" apart.</data>
+</container>

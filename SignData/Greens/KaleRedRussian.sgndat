@@ -1,0 +1,11 @@
+<container>
+  <data id="variety">Red Russian</data>
+  <data id="pic">KaleRedRussian{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>Kale.sgninc</include>
+  <data id="varietytip1">50 days.</data>
+  <data id="varietytip2">Plant in a sunny area.</data>
+  <data id="varietytip3">Grows 24{inch} high.</data>
+  <data id="varietytip4">Gray green, flat leaves with purple veins. Color intensifies with cool weather. Great addition to salads.</data>
+  <data id="varietytip5">Plant 18-24{inch} apart.</data>
+</container>

@@ -1,0 +1,11 @@
+<container>
+  <data id="variety">Bright Lights</data>
+  <data id="pic">SwissChardBrightLights{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>Swiss.sgninc</include>
+  <data id="varietytip1">60 days.</data>
+  <data id="varietytip2">Plant in a sunny area.</data>
+  <data id="varietytip3">Grows to 20{inch} tall.</data>
+  <data id="varietytip4">Colorful stems and dark bronzy leaves. Very mild flavor. Makes a colorful, great addition to your salad.</data>
+  <data id="varietytip5">Plant 10-12{inch} apart.</data>
+</container>

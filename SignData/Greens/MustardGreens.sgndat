@@ -1,0 +1,11 @@
+<container>
+  <data id="variety"></data>
+  <data id="pic">MustardGreens{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <data id="title">Mustard</data>
+  <data id="title2">Greens</data>
+  <data id="varietytip1">45-75 days.</data>
+  <data id="varietytip2">Plant in a sunny area.</data>
+  <data id="varietytip3">Blend of very fine, frilly leaves to large, smooth savoy-types. Mix of Garnet Giant, Green Frills and Ruby Streaks.</data>
+  <data id="varietytip4">Plant 10{inch} apart.</data>
+</container>

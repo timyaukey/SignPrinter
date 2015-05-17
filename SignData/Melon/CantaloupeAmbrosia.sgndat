@@ -1,0 +1,6 @@
+<container>
+  <data id="variety">Ambrosia</data>
+  <data id="pic">CantaloupeAmbrosia{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>Cantaloupe.sgninc</include>
+</container>

@@ -1,0 +1,11 @@
+<container>
+  <data id="variety">Rhubarb</data>
+  <data id="pic">SwissChardRhubarb{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>Chard.sgninc</include>
+  <data id="varietytip1">55 days.</data>
+  <data id="varietytip2">Plant in a sunny area.</data>
+  <data id="varietytip3">Grows to 22" tall.</data>
+  <data id="varietytip4">Dark green leaves with dark red stems. Robust. Good regrowth. Makes a colorful, great addition to your salad.</data>
+  <data id="varietytip5">Plant 10-12" apart.</data>
+</container>

@@ -1,0 +1,6 @@
+<container>
+  <data id="variety">Hannahs Choice</data>
+  <data id="pic">CantaloupeHannahsChoice{grower}.jpg</data>
+  <include>Facts.sgninc</include>
+  <include>Cantaloupe.sgninc</include>
+</container>
